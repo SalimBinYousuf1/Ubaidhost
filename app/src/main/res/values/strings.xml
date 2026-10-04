@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ubaid</string>
+    <string name="accessibility_service_name">Ubaid Remote Input Controller</string>
+    <string name="accessibility_service_description">Enables authorized remote controllers to perform navigation, touch interactions, text entry, and scrolling on behalf of the device owner.</string>
+    <string name="notification_channel_name">Ubaid Host Service</string>
+    <string name="notification_channel_desc">Active status notification for remote session, screen capture, and connection state.</string>
+    <string name="notification_session_active">Active remote session in progress</string>
+    <string name="notification_host_running">Ubaid Host is online and waiting for authorized controller</string>
+</resources>

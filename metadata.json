@@ -1,0 +1,6 @@
+{
+  "name": "Ubaid",
+  "description": "Native Android remote host service for secure authenticated device control, screen capture, and telemetry",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
